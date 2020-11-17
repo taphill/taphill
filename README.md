@@ -1,6 +1,6 @@
 ### Hello! I'm Taylor(he/him) 👋
 
-<img src="https://i.ibb.co/yX8L1zD/Screen-Shot-2020-11-16-at-11-49-09-PM.png" alt="banner">
+<img src="https://i.ibb.co/bg29QJX/Taylor-Phillips-1.png" alt="banner">
 
 A Software Engineer currently based out of Nashville, TN.  I love working alongside people who are kind, creative, and helpful and spend way too much time tweaking my dotfiles!
 <!--
