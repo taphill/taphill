@@ -1,6 +1,6 @@
 ### Hello! I'm Taylor(he/him) 👋
 
-<img src="https://i.ibb.co/zhpmdLw/github-profile-banner.png" alt="banner">
+<img src="https://i.ibb.co/c2LMbb1/Untitled.png" alt="banner">
 
 A Software Engineer currently based out of Nashville, TN.  I love working alongside people who are kind, creative, and helpful and spend way too much time tweaking my dotfiles!
 <!--
