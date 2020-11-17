@@ -1,5 +1,7 @@
 ### Hello! I'm Taylor(he/him) 👋
 
+<img src="https://i.ibb.co/zhpmdLw/github-profile-banner.png" alt="banner">
+
 A Software Engineer currently based out of Nashville, TN.  I love working alongside people who are kind, creative, and helpful and spend way too much time tweaking my dotfiles!
 <!--
 **taphill/taphill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
