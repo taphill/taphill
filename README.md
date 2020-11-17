@@ -4,8 +4,8 @@
 
 A Software Engineer based out of Nashville, TN and student at the Turing School of Software and Design. I'm currently working primarly with ruby and rails, but love exploring new technologies! I value working with people who are kind and treat others with fairness and respect. Feel free to have a look around and reach out to me with any questions!
 
-- 📫 taylorscottphillips@gmail.com
 - 🌱 [Linkedin](https://www.linkedin.com/in/taylorscottphillips/)
+- 📫 taylorscottphillips@gmail.com
 <!--
 **taphill/taphill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
