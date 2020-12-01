@@ -1,8 +1,8 @@
 ### Hello! I'm Taylor(he/him) 👋
 
-<img src="https://i.ibb.co/wK78kWG/Taylor-Phillips-5.png" alt="banner">
+<img src="https://i.ibb.co/g49ZrwY/Git-Hub-Profile-Banner.png">
 
-A Software Engineer based out of Nashville, TN and student at the Turing School of Software and Design. I'm currently working primarly with ruby and rails, but love exploring new technologies! I value working with people who are kind and treat others with fairness and respect. Feel free to have a look around and reach out to me with any questions!
+Software Engineer based out of Nashville, TN, and student at the Turing School of Software and Design. I'm currently working primarily with ruby, rails, and PostgreSQL databases, but I love exploring new technologies! I value working with people who are kind and treat others with fairness and respect. Feel free to have a look around and reach out to me with any questions!
 
 - 🌱 [Linkedin](https://www.linkedin.com/in/taylorscottphillips/)
 - 📫 taylorscottphillips@gmail.com
