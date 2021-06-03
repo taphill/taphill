@@ -2,7 +2,7 @@
 
 ### About
 
-A Software Engineer based out of Nashville, TN, and graduate of the Turing School of Software and Design. I'm currently working primarily with Ruby, Rails, and PostgreSQL databases, but I love exploring new technologies! I value working with people who are kind and treat others with fairness and respect. Feel free to have a look around and reach out to me with any questions!
+In past lives I have worked as a maintenance technician, customer support representative, network engineer, and have worked in recording studios as an audio engineer. I have done gigs from refurbishing old tape machines to recording live performances at the CMA's. These days, my focus is on developing software.
 
 ### Contact
 
