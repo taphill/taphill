@@ -6,7 +6,7 @@ In past lives I have worked as a maintenance technician, customer support repres
 
 ### Contact
 
-- 🌱 [LinkedIn](https://www.linkedin.com/in/taylorscottphillips/)
+- 🌱 [LinkedIn](https://www.linkedin.com/in/taphill/)
 - 📫 taylorscottphillips@gmail.com
 <!--
 **taphill/taphill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
