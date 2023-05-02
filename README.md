@@ -1,6 +1,4 @@
-## Hello! I'm Taylor(he/him) 👋
-
-### About
+### About me
 
 In past lives I have worked as a maintenance technician, customer support representative, network engineer, and have worked in recording studios as an audio engineer. I have done gigs from refurbishing old tape machines to recording live performances at the CMA's. These days, my focus is on developing software.
 
